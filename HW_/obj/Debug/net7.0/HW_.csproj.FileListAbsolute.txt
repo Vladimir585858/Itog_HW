@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\bin\Debug\net7.0\HW_.exe
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\bin\Debug\net7.0\HW_.deps.json
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\bin\Debug\net7.0\HW_.runtimeconfig.json
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\bin\Debug\net7.0\HW_.dll
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\bin\Debug\net7.0\HW_.pdb
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\HW_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\HW_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\HW_.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\HW_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\HW_.dll
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\refint\HW_.dll
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\HW_.pdb
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\HW_.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\Seminar C#\HomeWork_KR_MainBlock\HW_\obj\Debug\net7.0\ref\HW_.dll
